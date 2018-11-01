@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\DensanGameManager\DensanGameManager\bin\Debug\DensanGameManager.exe.config
+\\Mac\Home\Documents\DensanGameManager\DensanGameManager\bin\Debug\DensanGameManager.exe
+\\Mac\Home\Documents\DensanGameManager\DensanGameManager\bin\Debug\DensanGameManager.pdb
+\\Mac\Home\Documents\DensanGameManager\DensanGameManager\obj\Debug\DensanGameManager.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\DensanGameManager\DensanGameManager\obj\Debug\DensanGameManager.Top.resources
+\\Mac\Home\Documents\DensanGameManager\DensanGameManager\obj\Debug\DensanGameManager.Properties.Resources.resources
+\\Mac\Home\Documents\DensanGameManager\DensanGameManager\obj\Debug\DensanGameManager.csproj.GenerateResource.cache
+\\Mac\Home\Documents\DensanGameManager\DensanGameManager\obj\Debug\DensanGameManager.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\DensanGameManager\DensanGameManager\obj\Debug\DensanGameManager.exe
+\\Mac\Home\Documents\DensanGameManager\DensanGameManager\obj\Debug\DensanGameManager.pdb
+\\Mac\Home\Documents\DensanGameManager\DensanGameManager\obj\Debug\DensanGameManager.Add.resources
